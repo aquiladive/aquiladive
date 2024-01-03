@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Sandra Santhosh aka @aquiladive! I’m a 2nd year CSE student from Bangalore Institute of Technology, India.
-- 🌱 I know C, C++, Python, Java, HTML and CSS.
-- 👀 I’m currently interested in trying to complete working programs :p.
+- 👋 Hello, I’m Sandra Santhosh aka @aquiladive! I’m a 3rd year CSE student from Bangalore Institute of Technology, India.
+- 🌱 I know Python, C++, C, Java, HTML and CSS, the first two being my preferred programming languages.
+- 👀 I’m currently interested in web development and GUI.
 - 📫 You can reach me through Discord (aquiladive#8926).
 
 <!---
