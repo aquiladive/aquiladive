@@ -3,6 +3,8 @@
 - 👀 I’m currently interested in web development.
 - 📫 You can reach me through Discord (aquiladive#8926).
 
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aquiladive&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
