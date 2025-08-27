@@ -4,7 +4,8 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aquiladive&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- to figure out what's wrong with this later -->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=aquiladive&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!---
 aquiladive/aquiladive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
